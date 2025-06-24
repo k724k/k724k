@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 안녕하세요 👋 백엔드 개발자 이연경입니다
+
+## 👨‍💻 About Me
+
+- 2년차 백엔드 개발자로, 안정적인 서비스 운영과 성능 최적화에 관심이 많습니다.
+- Java, Spring Boot를 주로 사용하며 RESTful API 개발 경험을 가지고 있습니다.
+- 애자일 프로세스를 기반으로 협업을 진행하며 원할한 커뮤니케이션을 위해 노력합니다
+
+## 🛠️ Tech Stack
