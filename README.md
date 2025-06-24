@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 # 안녕하세요 👋 백엔드 개발자 이연경입니다
 
----
 
 ## 👨‍💻 About Me
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 | Java, Spring Boot | MySQL, Redis     | Docker, GitHub Actions, Nginx     | Git, REST API, JWT, Slack, Jira |
 
 
-### 🤝 Collaboration Tools
+## 🤝 Collaboration Tools
 - Slack, Jira 활용 하여 스프린트 보드 관리
 - Git + GitHub 기반 코드 협업 및 PR 리뷰 경험
 
