@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 | Backend           | Database         | DevOps                            | Others                         |
 |-------------------|------------------|-----------------------------------|--------------------------------|
-| Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket, Slack, Jira, Figma, Swagger |
+| Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket), Slack, Jira, Figma, Swagger |
 
 ## 📂 진행한 주요 프로젝트
 - 나중사(나를위한중개사) : 부동산 매칭 플랫폼
