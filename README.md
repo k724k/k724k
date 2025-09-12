@@ -23,21 +23,18 @@ Here are some ideas to get you started:
 - Java, Spring Boot를 주로 사용하며 RESTful API 개발 경험을 가지고 있습니다.
 - 애자일 프로세스를 기반으로 협업을 진행하며 원할한 커뮤니케이션을 위해 노력합니다
 
-
 ## 🛠️ Tech Stack
 
 | Backend           | Database         | DevOps                            | Others                         |
 |-------------------|------------------|-----------------------------------|--------------------------------|
-| Java, Spring Boot | MySQL, Redis     | Docker, GitHub Actions, Jenkins    | Git, REST API, JWT, Slack, Jira |
+| Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket, Slack, Jira, Figma, Swagger |
 
-
-## 🤝 Collaboration Tools
-- Slack, Jira 활용 하여 스프린트 보드 관리
-- Git + GitHub 기반 코드 협업 및 PR 리뷰 경험
-
-
-## 📂 주요 프로젝트
-
+## 📂 진행한 주요 프로젝트
+- 나중사(나를위한중개사) : 부동산 매칭 플랫폼
+- 2025 BIXPO(빅스포) : 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
+- 고고양양 : 관광지 정보 및 예약 서비스를 제공하는 강원도 양양군 통합 관광 플랫폼
+- 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
+- 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
 
 ## 📫 Contact Me
 
