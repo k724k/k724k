@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 | Backend           | Database         | DevOps                            | Others                         |
 |-------------------|------------------|-----------------------------------|--------------------------------|
-| Java, Spring Boot | MySQL, Redis     | Docker, GitHub Actions, Nginx     | Git, REST API, JWT, Slack, Jira |
+| Java, Spring Boot | MySQL, Redis     | Docker, GitHub Actions, Jenkins    | Git, REST API, JWT, Slack, Jira |
 
 
 ## 🤝 Collaboration Tools
