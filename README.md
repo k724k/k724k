@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 |-------------------|------------------|-----------------------------------|--------------------------------|
 | Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket), Slack, Jira, Figma, Swagger |
 
-## 📂 진행한 주요 프로젝트
+## 📂 진행 프로젝트
 - 🏡 나중사(나를위한중개사) : 부동산 매칭 플랫폼
 - 🏢 2025 BIXPO(빅스포) : 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
 - 🐑 고고양양 : 관광지 정보 및 예약 서비스를 제공하는 강원도 양양군 통합 관광 플랫폼
 - 💡 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
 - 🏪 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
-
+  
 ## 📫 Contact Me
 
 - email : k724k@naver.com
