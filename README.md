@@ -37,8 +37,12 @@ Here are some ideas to get you started:
 - 🏪 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
 
 ## 📂 개인 프로젝트
-  - 🤖 DeployPracticeAPI : aws, CI/CD 관련 연습 프로젝트
-
+- 🤖 DeployPracticeAPI : aws, CI/CD 관련 연습 프로젝트
+- 🤖 MSA + Kafka
+  - api-gateway-service : Spring Cloud Gateway 기반 MSA 프로젝트에서 API Gateway를 담당
+  - board-service : 게시글 작성, 조회 등을 담당
+  - point-service : 포인트 적립, 차감 등을 담당
+  - user-service : JWT 토큰 기반 로그인, 회원가입 등을 담당
 
 ## 📫 Contact Me
 
