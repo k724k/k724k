@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </div>
 
 ## 📂 Representative Projects
-🏡 나중사(나를위한중개사) 
+**🏡 나중사(나를위한중개사)**
 - 구분 : 회사 프로젝트
 - 참여 기간 : 2023.07 ~ 2025.05
 - 프로젝트 소개 : 부동산 매칭 플랫폼
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   - DB 쿼리 최적화로 성능 30% 개선, API 응답 속도 평균 0.4초 단축
   - 050 안심번호 기능 개발로 안전한 상담 환경 제공
 
-🐑 고고양양
+**🐑 고고양양**
 - 구분 : 회사 프로젝트
 - 참여 기간 : 2024.01 ~ 2024.05
 - 프로젝트 소개 : 양양군 통합 관광 플랫폼
@@ -56,30 +56,65 @@ Here are some ideas to get you started:
   - 통계/리포트 및 데이터 집계 쿼리 작성으로 관리자 운영 효율성 향상
 
 ## 📂 Projects
-🤖 DeployPracticeAPI : aws, CI/CD 관련 연습 프로젝트
-- 구분 : Personal Project
+**🤖 MSA project**
+- 구분 : 개인 프로젝트
+- 참여 기간 : 2025.11 ~ 
+- 프로젝트 소개 : Spring Boot 기반 MSA(Microservice Architecture) 학습용 프로젝트로, Kafka와 API Gateway를 활용한 서비스 구성 연습
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, MySQL, Kafka, Spring_Cloud_Gateway, Docker, AWS
+- 주요 구현 기능 : 
+  - API Gateway Service: Spring Cloud Gateway 기반 API 라우팅 및 인증 처리  
+  - Board Service: 게시글 작성, 조회 등 게시판 기능 구현 (RESTful API 동기 처리 포함)  
+  - Point Service: 포인트 적립/차감 기능 구현 (Kafka 기반 비동기 메시징 처리)  
+  - User Service: JWT 기반 로그인 및 회원가입 기능 구현
 
-🤖 MSA project
-- 구분 : Personal Project
-  - api-gateway-service : Spring Cloud Gateway 기반 MSA 프로젝트에서 API Gateway를 담당
-  - board-service : 게시글 작성, 조회 등을 담당
-  - point-service : 포인트 적립, 차감 등을 담당
-  - user-service : JWT 토큰 기반 로그인, 회원가입 등을 담당
+**🤖 DeployPracticeAPI**
+- 구분 : 개인 프로젝트
+- 참여 기간 : 2025.08 ~ 2025.11
+- 프로젝트 소개 : Docker, AWS, CI/CD 파이프라인 구축 프로젝트
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, MySQL, GitHub Actions, Docker, AWS
+- 주요 구현 기능 :
+  - CRUD API 개발 및 MySQL 데이터베이스 연동  
+  - GitHub/GitHub Actions를 활용한 소스 코드 관리 및 CI/CD 자동화  
+  - Dockerfile 작성 및 Docker 컨테이너화, AWS EC2 배포  
+  - Route53 도메인 연결, ELB 및 HTTPS 인증서 적용  
+  - AWS RDS(MySQL) 연동 및 S3 이미지 업로드 기능 구현
  
-🏢 2025 BIXPO(빅스포) : 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
-- 구분 : Company Project
+**🏢 2025 BIXPO(빅스포)**
+- 구분 : 회사 프로젝트
+- 참여 기간 : 2023.07 ~ 2025.05
+- 프로젝트 소개 :  산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, MyBatis, MySQL, Jenkins
+- 주요 구현 기능 :
+  - 사용자 기능: 게시판/게시글 조회, 프로그램 검색, 전시 부스 신청, 뉴스레터 구독, 파일/이메일 전송 API 구현  
+  - 관리자 기능: 프로그램, 세션/콘텐츠, 게시판, 약관, 팝업, 뉴스레터, 파일 관리 및 발송 이력 관리  
+  - 공통 기능: 상·중·하 코드 관리 및 DB 구조 설계
 
+**💡 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전**
+- 구분 : 회사 프로젝트
+- 참여 기간 : 2023.10 ~ 2023.12
+- 프로젝트 소개 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, QueryDSL, MySQL, GitHub Actions
+- 주요 구현 기능 :
+  - 사용자 기능: 단체/개인 접수 등록·조회·수정·삭제, 설문 제출, QA 작성/조회 (토큰 기반 인증)  
+  - 심사위원/감수위원 기능: 배정 팀/단체 조회, 매뉴얼 및 공통 코드 확인  
+  - 관리자 기능: 참가자 관리, 심사위원/감수위원 관리, 심사 항목/접수 관리, 게시판 및 약관/매뉴얼 관리
 
-💡 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
-- 구분 : Company Project
-
-
-🏪 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
-- 구분 : Company Project
-
+**🏪 2023 대한민국 정부 박람회** 
+- 구분 : 회사 프로젝트
+- 참여 기간 : 2023.08 ~ 2023.11
+- 프로젝트 소개 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, MyBatis, MySQL, GitHub Actions
+- 주요 구현 기능 :
+  - 공통 코드 관리 체계 설계 및 CRUD API 구현으로 서비스 확장성 강화  
+  - 참가 기업/기관, 프로그램, 이벤트, 게시판/게시글, 개막식 등 주요 도메인 CRUD 및 1:N 관계 모델 설계  
+  - 사용자용 API 개발로 실시간 정보 조회 및 콘텐츠 관리 효율성 향상
   
 ## 📫 Contact Me
-
 - email : k724k@naver.com
 
 
