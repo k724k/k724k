@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-| Backend           | Database         | DevOps                            | Others                         |
-|-------------------|------------------|-----------------------------------|--------------------------------|
-| Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket), Slack, Jira, Figma, Swagger |
-
 🔧 Backend
 <div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </div>
 🔌 Messaging / Streaming
@@ -37,7 +33,6 @@ Here are some ideas to get you started:
 <div align="left"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </div>
 🚀 DevOps / Infra
 <div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </div>
-
 
 ## 📂 팀 프로젝트
 - 🏡 나중사(나를위한중개사) : 부동산 매칭 플랫폼
