@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 2년차 백엔드 개발자로, 안정적인 서비스 운영과 성능 최적화에 관심이 많습니다.
+- 약 2년간 백엔드 개발자로 근무하며 안정적인 서비스 운영과 성능 최적화에 관심을 가지고 있습니다.
 - Java, Spring Boot를 주로 사용하며 RESTful API 개발 경험을 가지고 있습니다.
 - 애자일 프로세스를 기반으로 협업을 진행하며 원할한 커뮤니케이션을 위해 노력합니다
 
@@ -28,6 +28,16 @@ Here are some ideas to get you started:
 | Backend           | Database         | DevOps                            | Others                         |
 |-------------------|------------------|-----------------------------------|--------------------------------|
 | Java, Spring Boot, REST API, JPA, QueryDSL | MySQL, Redis     | Docker, GitHub Actions, Jenkins    |Git(GitHub, Bitbucket), Slack, Jira, Figma, Swagger |
+
+🔧 Backend
+<div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </div>
+🔌 Messaging / Streaming
+<div align="left"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> </div>
+🗄️ Database
+<div align="left"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </div>
+🚀 DevOps / Infra
+<div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </div>
+
 
 ## 📂 팀 프로젝트
 - 🏡 나중사(나를위한중개사) : 부동산 매칭 플랫폼
