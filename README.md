@@ -32,21 +32,52 @@ Here are some ideas to get you started:
 🚀 DevOps / Infra
 <div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </div>
 
-## 📂 팀 프로젝트
-- 🏡 나중사(나를위한중개사) : 부동산 매칭 플랫폼
-- 🏢 2025 BIXPO(빅스포) : 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
-- 🐑 고고양양 : 관광지 정보 및 예약 서비스를 제공하는 강원도 양양군 통합 관광 플랫폼
-- 💡 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
-- 🏪 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
+## 📂 Representative Projects
+🏡 나중사(나를위한중개사) 
+- 구분 : 회사 프로젝트
+- 참여 기간 : 2023.07 ~ 2025.05
+- 프로젝트 소개 : 부동산 매칭 플랫폼
+- 역할 : 백엔드 개발자
+- 기술 스택 : Java, Spring Boot, JPA, QueryDSL, MySQL, GitHub Actions
+- 주요 구현 기능 :
+  - 부동산 매물 등록, 안심번호, 알림, 관리자 등 핵심 기능 REST API 설계 및 구현
+  - DB 쿼리 최적화로 성능 30% 개선, API 응답 속도 평균 0.4초 단축
+  - 050 안심번호 기능 개발로 안전한 상담 환경 제공
 
-## 📂 개인 프로젝트
-- 🤖 DeployPracticeAPI : aws, CI/CD 관련 연습 프로젝트
-- 🤖 MSA + Kafka
+🐑 고고양양
+- 구분 : 회사 프로젝트
+- 참여 기간 : 2024.01 ~ 2024.05
+- 프로젝트 소개 : 양양군 통합 관광 플랫폼
+- 역할 : 백엔드/프론트엔드 개발자
+- 기술 스택 : Java, Spring Boot, MyBatis, MySQL, JSP, JavaScript, CSS, GitLab
+- 주요 구현 기능 :
+  - POI, 여행 코스/추천 콘텐츠 등 위치 기반 데이터 CRUD 및 관리자 UI 구현  
+  - 서핑 포인트, 파도 차트, AR 게임/스탬프 투어 등 실시간 서비스 관리 기능 개발  
+  - 통계/리포트 및 데이터 집계 쿼리 작성으로 관리자 운영 효율성 향상
+
+## 📂 Projects
+🤖 DeployPracticeAPI : aws, CI/CD 관련 연습 프로젝트
+- 구분 : Personal Project
+
+🤖 MSA project
+- 구분 : Personal Project
   - api-gateway-service : Spring Cloud Gateway 기반 MSA 프로젝트에서 API Gateway를 담당
   - board-service : 게시글 작성, 조회 등을 담당
   - point-service : 포인트 적립, 차감 등을 담당
   - user-service : JWT 토큰 기반 로그인, 회원가입 등을 담당
+ 
+🏢 2025 BIXPO(빅스포) : 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼
+- 구분 : Company Project
 
+
+💡 2023 창의 아이디어 발명 경진대회 / 2023 보훈 콘텐츠 공모전 : 아이디어/발명과 보훈 콘텐츠 공모전 공식 플랫폼
+- 구분 : Company Project
+
+
+🏪 2023 대한민국 정부 박람회 : 정부 혁신 및 공공 서비스 정보를 제공하는 박람회 공식 사이트
+- 구분 : Company Project
+
+  
 ## 📫 Contact Me
 
 - email : k724k@naver.com
