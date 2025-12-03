@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 - **역할:** 백엔드 개발자  
 - **기술 스택:** Java, Spring Boot, JPA, QueryDSL, MySQL, GitHub Actions  
 - **주요 구현 기능:**  
-  - 부동산 매물 요청, 등록, 안심번호, 알림, 관리자 기능 등 핵심 도메인 REST API 설계 및 구현
-  - QueryDSL 기반 쿼리 최적화로 DB 성능 30% 개선, API 평균 응답 속도 400ms 단축
-  - 안심번호 발급 구조 개선으로 운영 비용 약 40% 절감
+  - 부동산 매물 요청, 등록, 안심번호, 알림, 관리자 기능 등 핵심 도메인 REST API 설계 및 구현.
+  - QueryDSL 기반 쿼리 최적화로 DB 성능 30% 개선, API 평균 응답 속도 400ms 단축.
+  - 안심번호 발급 구조 개선으로 운영 비용 약 40% 절감.
 
 ## 📂 Projects
 
