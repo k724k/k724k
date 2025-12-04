@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   - Route53 도메인 연결, ELB 및 HTTPS 인증서 적용.  
   - AWS RDS(MySQL) 연동 및 S3 이미지 업로드 기능 구현.
 
-**🏢 2025 BIXPO (빅스포)**  
+**🏢 2024 BIXPO (빅스포)**  
 - **구분:** 회사 프로젝트
 - **참여 기간:** 2024.06 ~ 2024.12  
 - **프로젝트 소개:** 산업 전시회 참가자·부스 관리 및 운영 지원 플랫폼  
