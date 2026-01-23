@@ -64,10 +64,22 @@ Here are some ideas to get you started:
 
 ## 📂 Projects
 
+**🏔️ 지금,여기,인제**  
+- **구분:** 회사 프로젝트  
+- **참여 기간:** 2025.12 ~ 2026.02 
+- **프로젝트 소개:** 인제 지역 관광·콘텐츠·이벤트 정보를 통합 관리·제공하는 지역 활성화 플랫폼
+- **역할:** 풀스택 개발
+- **기술 스택:** Java, Spring Boot, MyBatis, MySQL, JSP, JavaScript, CSS
+- **담당 기능:** 백엔드 API·관리자 UI 설계 및 구현 전반 담당
+- **경험 및 성과:**
+  - - 백엔드와 관리자 UI 전반을 개발하며 **관광·콘텐츠·AR/스탬프 투어 등 주요 서비스 도메인을 안정적으로 운영할 수 있는 관리 시스템 구축**
+- CRUD, 노출 설정, 순서 변경, 자동 완성, 드래그 앤 드롭 등 **운영자가 직접 사용하는 핵심 기능을 구현해 업무 효율성과 UX 개선**
+- 통계·대시보드 기능을 개발해 **운영 현황을 직관적으로 파악할 수 있는 관리 환경 제공**
+
 **🤖 MSA Project**  
 - **구분:** 개인 프로젝트  
 - **참여 기간:** 2025.11 ~  
-- **프로젝트 소개:Gateway–User–Board–Point 서비스를 MSA 구조로 분리하고 Kafka 기반 이벤트 처리 적용  
+- **프로젝트 소개:** Gateway–User–Board–Point 서비스를 MSA 구조로 분리하고 Kafka 기반 이벤트 처리 적용 
 - **역할:** 백엔드 개발
 - **기술 스택:** Java, Spring Boot, JPA, MySQL, Kafka, Spring Cloud Gateway, Docker, AWS
 - **담당 기능:** MSA 아키텍처 설계·서비스 분리·이벤트 기반 흐름 구축
@@ -105,7 +117,7 @@ Here are some ideas to get you started:
 - **참여 기간:** 2024.01 ~ 2024.05  
 - **프로젝트 소개:** 양양군 통합 관광 플랫폼  
 - **역할:** 풀스택 개발
-- **기술 스택:** Java, Spring Boot, MyBatis, MySQL, JSP, JavaScript, CSS, GitLab
+- **기술 스택:** Java, Spring Boot, MyBatis, MySQL, JSP, JavaScript, CSS
 - **담당 기능:** 백엔드 API·관리자 UI 설계 및 구현 전반 담당
 - **경험 및 성과:**
   - 백엔드와 관리자 UI 전반을 개발하며 **관광·콘텐츠·AR/스탬프 투어 등 주요 서비스 도메인을 안정적으로 운영할 수 있는 관리 시스템 구축**
