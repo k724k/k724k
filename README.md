@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 **🧠 AI Tools**  
 <div align="left">
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+</div>
 
 ## 📂 Representative Projects
 
