@@ -44,6 +44,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
+**🧠 AI Tools**  
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+
 ## 📂 Representative Projects
 
 **🏡 나중사(나를위한중개사)**  
