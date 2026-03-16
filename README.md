@@ -151,5 +151,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 
-- **Email:** k724k@naver.com
+- **Email:** imii_yeon@naver.com
 
