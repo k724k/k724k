@@ -55,13 +55,19 @@ Java / Spring Boot 기반 백엔드 개발자입니다.
 
 # 📂 Projects
 
+- 🤖 **MSA Project**  
+  Gateway–User–Board–Point 서비스를 MSA 구조로 분리하고 Kafka 기반 이벤트 처리 구조를 구현한 개인 프로젝트
+
+- 🚀 **DeployPracticeAPI**  
+  AWS 환경에서 백엔드 서비스 배포 및 Docker · GitHub Actions 기반 CI/CD 파이프라인을 구축한 개인 프로젝트
+
 - 🏔️ **지금, 여기, 인제**  
   관광 콘텐츠 및 이벤트 관리 기능을 제공하는 지역 관광 플랫폼 풀스택 개발
 
 - 🏢 **2024 BIXPO (빅스포)**  
   산업 전시회 참가자·프로그램·부스 운영을 관리하는 전시 플랫폼 백엔드 개발
 
-  - 🏔️ **고고 양양**  
+- 🏔️ **고고 양양**  
   관광 콘텐츠·이벤트·스탬프 투어 등을 제공하는 지역 관광 플랫폼 풀스택 개발
 
 - 💡 **2023 창의 아이디어 발명 경진대회 (보훈 콘텐츠 공모전)**  
@@ -69,12 +75,6 @@ Java / Spring Boot 기반 백엔드 개발자입니다.
 
 - 🏢 **2023 대한민국 정부 박람회**  
   정부 혁신 및 공공 서비스 정보를 제공하는 박람회 플랫폼 백엔드 개발
-
-- 🤖 **MSA Project**  
-  Gateway–User–Board–Point 서비스를 MSA 구조로 분리하고 Kafka 기반 이벤트 처리 구조를 구현한 개인 프로젝트
-
-- 🚀 **DeployPracticeAPI**  
-  AWS 환경에서 백엔드 서비스 배포 및 Docker · GitHub Actions 기반 CI/CD 파이프라인을 구축한 개인 프로젝트
 
 ---
 
