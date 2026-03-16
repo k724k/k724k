@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 약 2년간 백엔드 개발자로 근무하며 안정적인 서비스 운영과 성능 최적화에 관심을 가지고 있습니다.
+- 2년간 백엔드 개발자로 근무하며 안정적인 서비스 운영과 성능 최적화에 관심을 가지고 있습니다.
 - Java, Spring Boot를 주로 사용하며 RESTful API 개발 경험이 있습니다.
 - 애자일 프로세스를 기반으로 협업하며 원활한 커뮤니케이션을 위해 노력합니다.
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 **🤖 MSA Project**  
 - **구분:** 개인 프로젝트  
-- **참여 기간:** 2025.11 ~  
+- **참여 기간:** 2025.11 ~ 2025.12 
 - **프로젝트 소개:** Gateway–User–Board–Point 서비스를 MSA 구조로 분리하고 Kafka 기반 이벤트 처리 적용 
 - **역할:** 백엔드 개발
 - **기술 스택:** Java, Spring Boot, JPA, MySQL, Kafka, Spring Cloud Gateway, Docker, AWS
