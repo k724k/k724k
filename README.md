@@ -88,6 +88,9 @@ https://github.com/k724k/backend-portfolio
 - 🏢 **2023 대한민국 정부 박람회**  
   정부 혁신 및 공공 서비스 정보를 제공하는 박람회 플랫폼 백엔드 개발
 
+👉 Project Repository  
+https://github.com/k724k/other-projects
+
 ---
 
 # 📫 Contact
